@@ -1,0 +1,18 @@
+body{font-family: 'Noto Sans', sans-serif;}
+
+.container{
+    width: 1000px;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.a1{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+
